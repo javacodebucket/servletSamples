@@ -17,7 +17,7 @@ src/sql - contains sql statements
 
 before deploying the war make sure db is ready and tomcat server is having mysql-connector jar in the lib.
 
-URL : http://localhost:8080/jfreeChartServlet
+URL : <a href="http://localhost:8080/jfreeChartServlet">http://localhost:8080/jfreeChartServlet</a>
 
 chart will getting refreshed every 5 seconds.
 
