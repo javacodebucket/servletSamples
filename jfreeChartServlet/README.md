@@ -23,3 +23,6 @@ chart will getting refreshed every 5 seconds.
 
 This basic sample get the data from the database and using jfreechart <i>"JDBCPieDataset"</i> construct the piechart and return to jsp.
 
+![demo](https://raw.githubusercontent.com/uttesh/servletSamples/master/jfreeChartServlet/sample.png)
+
+
