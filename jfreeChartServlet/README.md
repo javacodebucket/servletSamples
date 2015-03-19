@@ -11,6 +11,7 @@ Prerequisites
 This sample contain related jar and database related scripts.
 
 WEB-INF/lib - contains jar file.
+<br/>
 src/sql - contains sql statements
 
 before deploying the war make sure db is ready and tomcat server is having mysql-connector jar in the lib.
