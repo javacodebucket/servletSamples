@@ -1,2 +1,25 @@
-# servletSamples
-servlet related sample examples
+# JFreechart servlet sample
+
+Its very old way of geting jfreechart by servelt.
+
+Prerequisites 
+<hr/>
+<ul>
+<li>JDK 1.5 and above</li>
+<li>Jfreechart jars</li>
+<li>mysql connector jar</li>
+</ul>
+<hr/>
+This sample contain related jar and database related scripts.
+
+WEB-INF/lib - contains jar file.
+src/sql - contains sql statements
+
+before deploying the war make sure db is ready and tomcat server is having mysql-connector jar in the lib.
+
+URL : http://localhost:8080/jfreeChartServlet
+
+chart will getting refreshed every 5 seconds.
+
+This basic sample get the data from the database and using jfreechart <i>"JDBCPieDataset"</i> construct the piechart and return to jsp.
+
