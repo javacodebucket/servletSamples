@@ -1,7 +1,5 @@
 # JFreechart servlet sample
 
-Its very old way of geting jfreechart by servlet.
-
 Prerequisites 
 <hr/>
 <ul>
